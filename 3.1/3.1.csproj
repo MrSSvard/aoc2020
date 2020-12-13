@@ -6,4 +6,10 @@
     <RootNamespace>_3._1</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Update="item\input.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
